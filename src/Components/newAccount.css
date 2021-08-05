@@ -1,0 +1,26 @@
+.new-account-container {
+  margin-top: 2rem;
+}
+.new-account-title {
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-align: left;
+}
+
+.titlebox-container {
+  display: flex;
+}
+
+.checkbox-container {
+}
+
+.firstname {
+  display: block;
+  text-align: left;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.required {
+  color: red;
+}

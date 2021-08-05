@@ -1,0 +1,25 @@
+.topEdge {
+  width: 100%;
+  height: 5px;
+}
+
+.header-content-container {
+  margin: 20px auto;
+}
+.header-image {
+  margin-left: 220px;
+  width: 170px;
+}
+.language {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+}
+
+.gear {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.warning-text {
+  font-weight: 700;
+}
