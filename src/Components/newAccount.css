@@ -24,3 +24,6 @@
 .required {
   color: red;
 }
+.checkbox-title {
+  border-color: orange;
+}

@@ -12,10 +12,10 @@ export default function TopHeading() {
         <div className="topEdge bg-warning"></div>
         <Container fluid>
           <Row className="header-content-container ">
-            <Col xs={10}>
+            <Col className="offset-md-2" sm={12} md={8}>
               <img src={logo} className="header-image" />
             </Col>
-            <Col xs={2}>
+            <Col className="mt-2" sm={12} md={"auto"}>
               <Row>
                 <Col>
                   <p className="language">
